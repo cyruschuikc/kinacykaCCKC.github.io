@@ -17,9 +17,9 @@ You'll become as a traveler to walk＼write＼capture＼witness each of the stor
 > Current Version：１．１．１５ \
 > Current Edition：InDev（In Developing）\
 > SEVCDN：ID1.1.15
-```diff
-# ### New category coming soon
-```
+> Site Owner: [cyruschuikc](https://github.com/cyruschuikc) \
+> Site Director: [cyruschuikc](https://github.com/cyruschuikc)
+
 > [!NOTE]
 > This repository are under protection licensed the same GitHub Free Offered License which of [cyruschuikc.github.io](https://github.com/cyruschuikc/cyruschuikc.github.io) licensing. (i.e. Public MIT LICENSE)
 <hr>
