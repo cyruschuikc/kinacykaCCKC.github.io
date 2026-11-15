@@ -14,9 +14,9 @@ The things & affecta what will be leading to the future.
 ### What identity as you are the Visitor?
 You'll become as a traveler to walk＼write＼capture＼witness each of the stories & each moment of the stories＼the growthing Dev together.
 ### Base Information
-> Current Version：１．１．１ \
+> Current Version：１．１．１５ \
 > Current Edition：InDev（In Developing）\
-> SEVCDN：ID1.1.1
+> SEVCDN：ID1.1.15
 ```diff
 # ### New category coming soon
 ```
