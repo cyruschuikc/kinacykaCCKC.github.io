@@ -14,9 +14,9 @@ The things & affecta what will be leading to the future.
 ### What identity as you are the Visitor?
 You'll become as a traveler to walk＼write＼capture＼witness each of the stories & each moment of the stories＼the growthing Dev together.
 ### Base Information
-> Current Version：１．１．１8５ \
+> Current Version：１．１．４６ \
 > Current Edition：InDev（In Developing）\
-> SEVCDN：ID1.1.185 \
+> SEVCDN：ID1.1.46 \
 > Site Owner: [cyruschuikc](https://github.com/cyruschuikc) \
 > Site Director: [cyruschuikc](https://github.com/cyruschuikc)
 
